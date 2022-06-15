@@ -78,8 +78,7 @@ SP1_BACKUP_METHOD               := files
 
 TW_EXCLUDE_TWRPAPP           := true
 TW_INCLUDE_FUSE_EXFAT        := true
-TW_INCLUDE_CRYPTO            := false
-TW_EXCLUDE_ENCRYPTED_BACKUPS := true
+TW_INCLUDE_CRYPTO            := true
 TW_NO_CPU_TEMP               := true
 TW_NO_HAPTICS                := true
 TW_EXTRA_LANGUAGES           := false
